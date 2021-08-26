@@ -7,7 +7,7 @@
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support>https://hub.docker.com/r/ofawx/bitcoind/</Support>
+  <Support>https://forums.unraid.net/topic/112959-support-ofawx-templates-repo/</Support>
   <Project>https://bitcoin.org/</Project>
   <Overview>
     Support the Bitcoin network by hosting your own node! This template provides a full Bitcoin Core node, built in a verifiably trustless way.
