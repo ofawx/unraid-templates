@@ -16,7 +16,7 @@
     [br][br]
     To customize all settings, create a file called bitcoin.conf in the data directory. Refer to https://github.com/bitcoin/bitcoin/blob/master/share/examples/bitcoin.conf for examples of settings you may apply.
   </Overview>
-  <Category>Tools: Status:Beta</Category>
+  <Category>Tools: Network:Other Crypto: Status:Beta</Category>
   <WebUI/>
   <TemplateURL>https://raw.githubusercontent.com/ofawx/unraid-templates/master/bitcoind.xml</TemplateURL>
   <Icon>https://github.com/ofawx/docker-bitcoind/raw/master/logo.png</Icon>
