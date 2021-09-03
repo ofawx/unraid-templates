@@ -6,5 +6,6 @@ Docker container templates for Unraid.
 Current containers:
 
 * [bitcoind](bitcoind.xml)
-
-  Based on trustless [docker-bitcoind](https://github.com/ofawx/docker-bitcoind/)
+  * Based on trustless [docker-bitcoind](https://github.com/ofawx/docker-bitcoind/)
+* [electrs](electrs.xml)
+  * Based on [docker-electrs](https://github.com/ofawx/docker-electrs/)
