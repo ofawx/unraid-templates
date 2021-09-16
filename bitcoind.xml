@@ -21,7 +21,7 @@
   <TemplateURL>https://raw.githubusercontent.com/ofawx/unraid-templates/master/bitcoind.xml</TemplateURL>
   <Icon>https://github.com/ofawx/unraid-templates/raw/master/img/bitcoin.png</Icon>
   <ExtraParams/>
-  <PostArgs>-txindex</PostArgs>
+  <PostArgs/>
   <CPUset/>
   <DateInstalled/>
   <DonateText/>
